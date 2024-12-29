@@ -42,11 +42,23 @@ label = "Dolor"
 [params.two]
 enable = true
 
+
 [[params.two.section]]
-img = "img/pic01.jpg"
+img = "img/ttored.jpg"
 img_alt = "blurry background: white/grey"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+title = "TTO Mod Campaign Project" 
+body = """
+I am currently collaborating with a group of my fellow bachelor's students on a mod campaign for TTO. 
+Check it out on [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3374103336).
+
+My roles and contributions to the project:  
+**Producer** | **Game Designer** | **Sound Designer** | **Main Programmer**
+"""
+[[params.two.section.link]]
+href = "/contact/"
+text = "More"
+special = false
+
 
 [[params.two.section]]
 img = "img/pic02.jpg"
@@ -57,6 +69,7 @@ body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. 
 img = "img/pic03.jpg"
 title = 'Magna primis lobortis<br />sed ullamcorper'
 body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+
 
 [params.three]
 enable = true
@@ -102,24 +115,15 @@ title = "Arcue ut vel commodo"
 body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
 
 [[params.cta.link]]
-href = "#"
-text = "Activate"
+href = "/contact/"
+text = "Contacts"
 special = true
 
 [[params.cta.link]]
 href = "#"
-text = "Learn More"
+text = "begin"
 special = false
 
-[params.contact]
-enable = true
-title = "Contact"
-body = "Leave us a message."
-phone = "+49 (0) 030 000 000"
-address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
-email = "nospam@example.com"
-subject = "New Submission!"
-formspree_form_id = "example_invalid"
 
 [params.social]
 twitter = ""

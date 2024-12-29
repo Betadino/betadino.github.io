@@ -2755,6 +2755,12 @@ input, select, textarea {
 			width: 60%;
 		}
 
+		.spotlight .btnpos {
+			display: flex; 
+			justify-content: flex-start;
+			justify-content: end;
+		}
+
 		.spotlight:nth-child(2n) {
 			-moz-flex-direction: row-reverse;
 			-webkit-flex-direction: row-reverse;

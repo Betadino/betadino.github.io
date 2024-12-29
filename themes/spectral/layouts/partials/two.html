@@ -12,7 +12,15 @@
     {{ end }}
     <div class="content">
       <h2>{{ .title | safeHTML }}</h2>
-      {{ partial "body_text.html" (dict "context" . "md" $md) }}
+      <div>
+        {{ partial "body_text.html" (dict "context" . "md" $md) }}
+      </div>
+      
+      <div class="">
+          {{ range .link }}
+          <a href="{{ .href }}" class="button small {{ if .special }}primary{{ end }}">{{ .text }}</a>
+          {{ end }}
+      </div>
 		</div>
 	</section>
   {{ end }}

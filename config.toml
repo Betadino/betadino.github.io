@@ -44,7 +44,7 @@ enable = true
 
 
 [[params.two.section]]
-img = "img/ttored.jpg"
+img = "public/img/ttored.jpg"
 img_alt = "blurry background: white/grey"
 title = "TTO Mod Campaign Project" 
 body = """

@@ -9,19 +9,30 @@ theme = "spectral"
 [params]
 fancyTitle = "Tiago Moreira" # title for frontpage, may include image
 copyright = "Tiago Moreira"
-description = 'Game Developer<br /> Gameplay programmer '
+description = 'Game Developer - Programmer'
 body_is_markdown = true
 #custom_css = "foo.css"
 #custom_sass = "bar.scss"
-#images = ["path_to_social_image_for_link_previews.jpg"]
+#images = [""]
 
 [[params.menu.main]]
 url = '/'
 title = "Home"
 
+
+[[params.menu.main]]
+url = '/projects/'
+title = "Projects"
+
+
+[[params.menu.main]]
+url = '/resume/'
+title = "Resumé"
+
 [[params.menu.main]]
 url = '/contact/'
 title = "Contacts"
+
 
 [taxonomies]
     tag = "tags"
@@ -55,8 +66,8 @@ My roles and contributions to the project:
 **Producer** | **Game Designer** | **Sound Designer** | **Main Programmer**
 """
 [[params.two.section.link]]
-href = "/contact/"
-text = "More"
+href = "projects/thundertierone/"
+text = "Details"
 special = false
 
 
@@ -64,15 +75,14 @@ special = false
 img = "img/vv.png"
 title = 'Project Red - Virtual Campus'
 body = """
-During my second year at university, I was honored to be invited by the faculty to participate in a significant project as a programmer. It was an exceptional opportunity that allowed me to contribute my skills in various aspects:
-- **Front End and Middleware Development:** Implemented the entire front end and middleware in React, including interactions and the integration of UX design elements.
+- **Front End and Middleware Development:** Implemented the entire front end and middleware in React.
 - **Translation of Functions:** Adapted bilateral JavaScript functions from React to C# for WebGL in Unity.
 - **Core Functionalities:** Developed essential functionalities within the Unity environment.
 
 Check the example work [Here](https://conteudos.red-de.lusoinfo.com/assets/activities/ACT.VisitasLote3/?modality=16&base_url=https://dr.red-de.lusoinfo.com/) or [Here](https://conteudos.red-de.lusoinfo.com/assets/activities/ACT.VisitasLote2/?modality=16&base_url=https://dr.red-de.lusoinfo.com/)
 """
 [[params.two.section.link]]
-href = "/projects/Virtualcampus"
+href = "/projects/virtualcampus"
 text = "Details"
 special = false
 
@@ -84,46 +94,29 @@ body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. 
 
 [params.three]
 enable = true
-title = 'Accumsan mus tortor nunc aliquet'
-body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
-fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
-'''
+title = 'My Skill Set for games'
+
 
 [[params.three.feature]]
 icon = "fa-paper-plane"
-title = "Arcu accumsan"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
-
-[[params.three.feature]]
-icon = "solid fa-laptop"
-title = "Ac Augue Eget"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+title = "Tools"
+body = "Unity Engine </br> Unreal Engine </br> Blender </br> Audacity"
 
 [[params.three.feature]]
 icon = "solid fa-code"
-title = "Foo bar"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+title = "Code Languages"
+body = "C# C++ C </br> MySQL </br> JavaScript/TypeScript </br> Python </br> Bash"
 
 [[params.three.feature]]
-icon = "solid fa-headphones-alt"
-title = "Baz kram"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+icon = "solid fa-laptop"
+title = "Fields i can work"
+body = "Programming </br> DevOps </br> Game/Level Design </br> Sound Design </br> Animation </br> VFX"
 
-[[params.three.feature]]
-icon = "fa-heart"
-title = "Some latin text"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
-[[params.three.feature]]
-icon = "fa-flag"
-title = "Nothing important"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [params.cta]
 enable = true
-title = "Arcue ut vel commodo"
-body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
+title = "Thank you for visiting"
 
 [[params.cta.link]]
 href = "/contact/"
@@ -131,15 +124,15 @@ text = "Contacts"
 special = true
 
 [[params.cta.link]]
-href = "#"
-text = "begin"
+href = "/resume/"
+text = "Resumé"
 special = false
 
 
 [params.social]
 twitter = ""
 mastodon = ""
-github = ""
+github = "github.com/betadino"
 facebook = ""
 youtube = ""
 instagram = ""

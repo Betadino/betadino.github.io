@@ -1,22 +1,24 @@
 +++
 date = "2024-11-30T22:51:40Z"
-title = 'Indiana João'
+title = 'tic80 + raspberry pico project'
 cover = '/public/404.png'
 +++
-### My Journey as a Programmer
+### Indiana João
 
-During my second year at university, I was honored to be invited by the faculty to participate in a significant project as a programmer. It was an exceptional opportunity that allowed me to contribute my skills in various aspects:
+**Platform:** TIC-80
 
-**Accomplished Work:**
+**Description:**
+Indiana João is a game I developed, featuring a unique control mechanism utilizing a Raspberry Pico and advanced programming techniques. The project highlights the integration of the C/C++ SDK, Fourier Fast Transform, and the TinyUSB library to create innovative audio-based controls.
 
-- **Front End and Middleware Development:** Implemented the entire front end and middleware in React, including interactions and the integration of UX design elements.
-- **Translation of Functions:** Adapted bilateral JavaScript functions from React to C# for WebGL in Unity.
-- **Core Functionalities:** Developed essential functionalities within the Unity environment.
+**Technological Highlights:**
+- **Raspberry Pico:** Utilized as the main microcontroller to process audio input.
+- **C/C++ SDK:** Leveraged for efficient and effective coding.
+- **Fourier Fast Transform:** Implemented to analyze audio frequencies and convert them into game controls.
+- **TinyUSB Library:** Ensured seamless USB connectivity and data transfer.
 
-Additionally, I proposed the use of React for the interface part, as the initial idea of implementing a traditional web interface inside Unity didn't make any sense. This decision proved to be efficient and effective for the project.
+**Innovative Controls:**
+- **Jump:** Frequencies of C (3rd and 4th octaves)
+- **Big Jump:** Frequencies of E (3rd and 4th octaves)
+- **Slide:** Frequencies of A (3rd and 4th octaves)
 
-Through this experience, I learned how to communicate and handle WebGL with React and how they integrate seamlessly.
-
-This experience not only honed my technical skills but also enriched my understanding of collaborative project development.
-
-Check the example work [Here](https://conteudos.red-de.lusoinfo.com/assets/activities/ACT.VisitasLote3/?modality=16&base_url=https://dr.red-de.lusoinfo.com/) or [Here](https://conteudos.red-de.lusoinfo.com/assets/activities/ACT.VisitasLote2/?modality=16&base_url=https://dr.red-de.lusoinfo.com/)
+By focusing on these advanced technologies, Indiana João offers an engaging and unconventional gameplay experience, showcasing the potential of integrating hardware and software for interactive entertainment.

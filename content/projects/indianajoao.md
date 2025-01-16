@@ -1,6 +1,6 @@
 +++
 date = "2024-11-30T22:51:40Z"
-title = 'Virtual Campus - Projeto Red'
+title = 'Indiana João'
 cover = '/public/404.png'
 +++
 ### My Journey as a Programmer

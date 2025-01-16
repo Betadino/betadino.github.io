@@ -45,7 +45,7 @@ enable = true
 
 [[params.two.section]]
 img = "img/ttored.jpg"
-img_alt = "blurry background: white/grey"
+img_alt = "Thunder tier one image"
 title = "TTO Mod Campaign Project" 
 body = """
 I am currently collaborating with a group of my fellow bachelor's students on a mod campaign for TTO. 
@@ -61,27 +61,20 @@ special = false
 
 
 [[params.two.section]]
-img = "img/vv.jpg"
-title = 'Projeto Red'
+img = "img/vv.png"
+title = 'Project Red - Virtual Campus'
 body = """
-### My Journey as a Programmer
-
 During my second year at university, I was honored to be invited by the faculty to participate in a significant project as a programmer. It was an exceptional opportunity that allowed me to contribute my skills in various aspects:
-
-**Accomplished Work:**
-
 - **Front End and Middleware Development:** Implemented the entire front end and middleware in React, including interactions and the integration of UX design elements.
 - **Translation of Functions:** Adapted bilateral JavaScript functions from React to C# for WebGL in Unity.
 - **Core Functionalities:** Developed essential functionalities within the Unity environment.
 
-Additionally, I proposed the use of React for the interface part, as the initial idea of implementing a traditional web interface inside Unity didn't make any sense. This decision proved to be efficient and effective for the project.
-
-Through this experience, I learned how to communicate and handle WebGL with React and how they integrate seamlessly.
-
-This experience not only honed my technical skills but also enriched my understanding of collaborative project development.
-
 Check the example work [Here](https://conteudos.red-de.lusoinfo.com/assets/activities/ACT.VisitasLote3/?modality=16&base_url=https://dr.red-de.lusoinfo.com/) or [Here](https://conteudos.red-de.lusoinfo.com/assets/activities/ACT.VisitasLote2/?modality=16&base_url=https://dr.red-de.lusoinfo.com/)
 """
+[[params.two.section.link]]
+href = "/projects/Virtualcampus"
+text = "Details"
+special = false
 
 [[params.two.section]]
 img = "img/pic03.jpg"

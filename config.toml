@@ -42,7 +42,7 @@ title = "Contacts"
 [params.one]
 enable = true
 body = '''
-My interests are in programming for game development, ai behaviour and networking.
+My interests are in programming for game development, AI behaviour and networking.
 '''
 
 [[params.one.icon]]

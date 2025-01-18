@@ -7,8 +7,17 @@ cover = '/public/404.png'
 
 **Platform:** TIC-80
 
+
 **Description:**
-Indiana João is a game I developed, featuring a unique control mechanism utilizing a Raspberry Pico and advanced programming techniques. The project highlights the integration of the C/C++ SDK, Fourier Fast Transform, and the TinyUSB library to create innovative audio-based controls.
+Indiana João is a game I developed with my fellow students, featuring a unique control mechanism utilizing a Raspberry Pico and advanced programming techniques. The project highlights the integration of the C/C++ SDK, Fourier Fast Transform, and the TinyUSB library to create innovative audio-based controls.
+
+**Work**
+- Made the microphone controller for the game.
+- Chose and developed the game theme and design.
+- Made some code in animation functions.
+
+### Check it out [here](https://tic80.com/play?cart=4145).
+
 
 **Technological Highlights:**
 - **Raspberry Pico:** Utilized as the main microcontroller to process audio input.

@@ -60,14 +60,14 @@ img_alt = "Thunder tier one image"
 title = "TTO Mod Campaign Project" 
 body = """
 I am currently collaborating with a group of my fellow bachelor's students on a mod campaign for TTO. 
-Check it out on [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3374103336).
+### [Check it out on Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3374103336).
 
 My roles and contributions to the project:  
 **Producer** | **Game Designer** | **Sound Designer** | **Main Programmer**
 """
 [[params.two.section.link]]
 href = "projects/thundertierone/"
-text = "Details"
+text = "Project Details"
 special = false
 
 
@@ -83,19 +83,31 @@ Check the example work [Here](https://conteudos.red-de.lusoinfo.com/assets/activ
 """
 [[params.two.section.link]]
 href = "/projects/virtualcampus"
-text = "Details"
+text = "Project Details"
 special = false
 
-[[params.two.section]]
-img = "img/pic03.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+[[params.two.section]] 
+img = "img/INDIANAJOAO.png" 
+title = 'Indiana João'
+body = """
+**Platform:** TIC-80
 
+Indiana João is a game I developed with fellow students, featuring a unique control mechanism utilizing a Raspberry Pico and a microphone module. 
+The project highlights the integration of the C/C++ SDK, Fourier Fast Transform, and the TinyUSB library to create innovative audio-based controls.  
+
+## Check it out [here](https://tic80.com/play?cart=4145).
+
+
+"""
+
+[[params.two.section.link]]
+href = "/projects/indianajoao"
+text = "Project Details"
+special = false
 
 [params.three]
 enable = true
 title = 'My Skill Set for games'
-
 
 [[params.three.feature]]
 icon = "fa-paper-plane"

@@ -1,7 +1,7 @@
 +++
 date = "2024-11-30T22:51:40Z"
 title = 'tic80 + raspberry pico project'
-cover = '/public/404.png'
+image = '/img/INDIANAJOAO.png'
 +++
 ### Indiana João
 
@@ -11,19 +11,17 @@ cover = '/public/404.png'
 **Description:**
 Indiana João is a game I developed with my fellow students, featuring a unique control mechanism utilizing a Raspberry Pico and advanced programming techniques. The project highlights the integration of the C/C++ SDK, Fourier Fast Transform, and the TinyUSB library to create innovative audio-based controls.
 
+
 **Work**
-- Made the microphone controller for the game.
-- Chose and developed the game theme and design.
-- Made some code in animation functions.
+
+My part on the project was the concept of the game and the implementation of a HID through the Raspberry Pico with the use of the C/C++ SDK, Fourier Fast Transform, and the TinyUSB library to implement controls that requires the player to sing a certain note to do an action.
 
 ### Check it out [here](https://tic80.com/play?cart=4145).
 
 
-**Technological Highlights:**
-- **Raspberry Pico:** Utilized as the main microcontroller to process audio input.
-- **C/C++ SDK:** Leveraged for efficient and effective coding.
-- **Fourier Fast Transform:** Implemented to analyze audio frequencies and convert them into game controls.
-- **TinyUSB Library:** Ensured seamless USB connectivity and data transfer.
+- **Raspberry Pico:** Utilized as the main micro controller that behaves as a composite HID to process audio input where the algorithm analyzes sound and sends the output signals to the main pc as keyboard inputs.
+- **Sound wave analysis with Fourier Fast Transform (FFT):** I utilized a library that had the part to collect and store the samples and analyzes them using the Fourier Transform equation. [This is the library used, made by googol](https://github.com/Googool/pico_fft)
+- **TinyUSB Library:** This was the library used for pico to behave as HID and program the base input functions.
 
 **Innovative Controls:**
 - **Jump:** Frequencies of C (3rd and 4th octaves)

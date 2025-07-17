@@ -1,24 +1,30 @@
 +++
 date = "2024-11-30T22:51:40Z"
-title = 'Thunder Tier One MoD'
-cover = 'img/ttored.jpg'
+title = 'Thunder Tier One Mod'
+image = '/img/image.png'
 +++
-## TTO Mod Campaign Project 
 
-I am currently collaborating with a group of my fellow bachelor's students on a mod campaign for TTO. 
+This is my final university project made with 2 colleagues that worked level design, art and animation.
 
-## [Check it out on Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3374103336).
+ 
+Roles: **Producer** | **Game Designer** | **Sound Designer** | **Main Programmer**
+
+This project is a Mod campaign of zombies, made through the Thunder Tier One Modding Tool . **[Check it out on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3374103336)**.
+
+
+We had the formal support from Krafton Portugal to assist in any questions we've had and it has currently 3 of the 5 projected missions released.
+
 
 ### Roles
 
 **Producer:** 
-- Managed timelines, and ensured clear communication within the team.
+- Managed timelines, and ensured clear direction of development within the team.
 
 **Game Designer:** 
-- Conceptualized the main idea and directed the unfolding of the campaign, incorporating ideas from all team members to create a cohesive design.
+- Conceptualized the main idea and directed the making of the campaign, always incorporating and discussing ideas from all team members that increased quality of the mod.
 
 **Sound Designer:** 
-- Created and integrated sound effects and managed audio assets for a high-quality sound experience.
+- Created and integrated sound effects and managed audio assets.
 
 **Main Programmer:** 
-- Implemented key gameplay features using the Thunder Tier Mod Tool, optimized scripts, and resolved technical issues.  
+- I was responsible for all the programming part of the game including scripting the levels, bosses and AI behaviours. 

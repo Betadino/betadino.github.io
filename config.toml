@@ -42,8 +42,9 @@ title = "Contacts"
 [params.one]
 enable = true
 body = '''
-My interests are in programming for game development, AI behaviour and networking.
+I'm interested in programming areas like game mechanics, AI behaviours, multiplayer systems, graphics programming, and tooling. I also like game design.
 '''
+
 
 [[params.one.icon]]
 icon = "solid fa-code"
@@ -57,14 +58,16 @@ enable = true
 [[params.two.section]]
 img = "img/ttored.jpg"
 img_alt = "Thunder tier one image"
-title = "TTO Mod Campaign Project" 
+title = "Thunder Tier One Mod - Resurrection Protocol" 
 body = """
-I am currently collaborating with a group of my fellow bachelor's students on a mod campaign for TTO. 
-### [Check it out on Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3374103336).
+This is my final university project made with 2 colleagues that worked level design, art and animation.
 
-My roles and contributions to the project:  
-**Producer** | **Game Designer** | **Sound Designer** | **Main Programmer**
+ 
+Roles: **Producer** | **Game Designer** | **Sound Designer** | **Main Programmer**
+
+This project is a Mod campaign of zombies, made through the Thunder Tier One Modding Tool . **[Check it out on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3374103336)**.
 """
+
 [[params.two.section.link]]
 href = "projects/thundertierone/"
 text = "Project Details"
@@ -72,30 +75,34 @@ special = false
 
 
 [[params.two.section]]
-img = "img/vv.png"
-title = 'Project Red - Virtual Campus'
+img = "img/SplashScreen.png"
+title = 'Project RED'
 body = """
-- **Front End and Middleware Development:** Implemented the entire front end and middleware in React.
-- **Translation of Functions:** Adapted bilateral JavaScript functions from React to C# for WebGL in Unity.
-- **Core Functionalities:** Developed essential functionalities within the Unity environment.
 
-Check the example work [Here](https://conteudos.red-de.lusoinfo.com/assets/activities/ACT.VisitasLote3/?modality=16&base_url=https://dr.red-de.lusoinfo.com/) or [Here](https://conteudos.red-de.lusoinfo.com/assets/activities/ACT.VisitasLote2/?modality=16&base_url=https://dr.red-de.lusoinfo.com/)
+This was a paid project I was invited to join through the university.
+
+It was developed for the Portuguese government's education sector, in collaboration between the university and a company. This project had several wings and i was brought in to work on virtual visits.
+
+
+
+#### Check the example work [Here](https://conteudos.red-de.lusoinfo.com/assets/activities/ACT.VisitasLote3/?modality=16&base_url=https://dr.red-de.lusoinfo.com/) or [Here](https://conteudos.red-de.lusoinfo.com/assets/activities/ACT.VisitasLote2/?modality=16&base_url=https://dr.red-de.lusoinfo.com/)
 """
+
 [[params.two.section.link]]
 href = "/projects/virtualcampus"
 text = "Project Details"
 special = false
 
+
 [[params.two.section]] 
-img = "img/INDIANAJOAO.png" 
+img = "img/ijv2.png" 
 title = 'Indiana João'
 body = """
 **Platform:** TIC-80
 
-Indiana João is a game I developed with fellow students, featuring a unique control mechanism utilizing a Raspberry Pico and a microphone module. 
-The project highlights the integration of the C/C++ SDK, Fourier Fast Transform, and the TinyUSB library to create innovative audio-based controls.  
+Indiana João is a game that I had a ton of fun developing with fellow students, featuring a unique control mechanism utilizing a Raspberry Pico and a microphone module. 
 
-## Check it out [here](https://tic80.com/play?cart=4145).
+You can check the code made and compiled into the Pico platform on my [Github](https:///github.com/betadino/ote_ij_fft) and tou can **[Check out the game itself here](https://tic80.com/play?cart=4145)**.
 
 
 """
@@ -104,6 +111,31 @@ The project highlights the integration of the C/C++ SDK, Fourier Fast Transform,
 href = "/projects/indianajoao"
 text = "Project Details"
 special = false
+
+
+[[params.two.section]] 
+img = "img/marching.png" 
+title = 'Marching Cubes/Tetrahedra'
+body = """
+
+This implementation is a cave generator that uses a cellular automaton to manipulate a cubic array of booleans as structural data.
+
+The it can use either marching cubes or marching tetrahedra  algorithms to create it’s mesh.
+
+It is made in Unity/C# and a scientific paper about it was made in context of the same curricular unit.
+
+
+
+#### You can download the executable and the paper PDF file [here](https://github.com/Betadino/mtfinal).
+
+
+"""
+
+[[params.two.section.link]]
+href = "/projects/finalmt"
+text = "Project Details"
+special = false
+
 
 [params.three]
 enable = true
@@ -122,7 +154,7 @@ body = "C# C++ C </br> MySQL </br> JavaScript/TypeScript </br> Python </br> Bash
 [[params.three.feature]]
 icon = "solid fa-laptop"
 title = "Fields i can work"
-body = "Programming </br> DevOps </br> Game/Level Design </br> Sound Design </br> Animation </br> VFX"
+body = "Programming </br> DevOps </br> Game/Level Design </br> VFX </br> Sound Design </br> Animation"
 
 
 
@@ -134,6 +166,11 @@ title = "Thank you for visiting"
 href = "/contact/"
 text = "Contacts"
 special = true
+
+[[params.cta.link]]
+href = "/github.com/betadino/"
+text = "GitHub"
+special = false
 
 [[params.cta.link]]
 href = "/resume/"

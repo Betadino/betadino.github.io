@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tiago Moreira</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Tiago Moreira</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 30 Nov 2024 22:51:40 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Marching Cubes and Tetrahedra</title>
-      <link>/projects/finalmt/</link>
+      <link>//localhost:1313/projects/finalmt/</link>
       <pubDate>Sat, 30 Nov 2024 22:51:40 +0000</pubDate>
-      <guid>/projects/finalmt/</guid>
+      <guid>//localhost:1313/projects/finalmt/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;&#xA;&#xA;&#xA;    &#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/FAYPIrGQ-gs?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Work&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;This project, was a progression from 2nd year implementation of Marching Cubes, where i did the algorithm implementation.&lt;/p&gt;&#xA;&lt;p&gt;This implementation is a cave generator that uses a cellular automaton to manipulate a cubic array of booleans as structural data, then, the marching cubes algorithm creates it’s mesh.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Thunder Tier One Mod</title>
-      <link>/projects/thundertierone/</link>
+      <link>//localhost:1313/projects/thundertierone/</link>
       <pubDate>Sat, 30 Nov 2024 22:51:40 +0000</pubDate>
-      <guid>/projects/thundertierone/</guid>
-      <description>&lt;p&gt;This is my final university project made with 2 colleagues that worked level design, art and animation.&lt;/p&gt;&#xA;&lt;p&gt;Roles: &lt;strong&gt;Producer&lt;/strong&gt; | &lt;strong&gt;Game Designer&lt;/strong&gt; | &lt;strong&gt;Sound Designer&lt;/strong&gt; | &lt;strong&gt;Main Programmer&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;This project is a Mod campaign of zombies, made through the Thunder Tier One Modding Tool . &lt;strong&gt;&lt;a href=&#34;https://steamcommunity.com/sharedfiles/filedetails/?id=3374103336&#34;&gt;Check it out on Steam Workshop&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;We had the formal support from Krafton Portugal to assist in any questions we&amp;rsquo;ve had and it has currently 3 of the 5 projected missions released.&lt;/p&gt;</description>
+      <guid>//localhost:1313/projects/thundertierone/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&#xA;&#xA;    &#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/w5rE63W1g7A?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;This is my final university project made with 2 colleagues that worked level design, art and animation.&lt;/p&gt;&#xA;&lt;p&gt;Roles: &lt;strong&gt;Producer&lt;/strong&gt; | &lt;strong&gt;Game Designer&lt;/strong&gt; | &lt;strong&gt;Sound Designer&lt;/strong&gt; | &lt;strong&gt;Main Programmer&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;This project is a Mod campaign of zombies, made through the Thunder Tier One Modding Tool . &lt;strong&gt;&lt;a href=&#34;https://steamcommunity.com/sharedfiles/filedetails/?id=3374103336&#34;&gt;Check it out on Steam Workshop&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>tic80 &#43; raspberry pico project</title>
-      <link>/projects/indianajoao/</link>
+      <link>//localhost:1313/projects/indianajoao/</link>
       <pubDate>Sat, 30 Nov 2024 22:51:40 +0000</pubDate>
-      <guid>/projects/indianajoao/</guid>
+      <guid>//localhost:1313/projects/indianajoao/</guid>
       <description>&lt;h3 id=&#34;indiana-joão&#34;&gt;Indiana João&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Platform:&lt;/strong&gt; TIC-80&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt;&#xA;Indiana João is a game I developed with my fellow students, featuring a unique control mechanism utilizing a Raspberry Pico and advanced programming techniques. The project highlights the integration of the C/C++ SDK, Fourier Fast Transform, and the TinyUSB library to create innovative audio-based controls.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Work&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;My part on the project was the concept of the game and the implementation of a HID through the Raspberry Pico with the use of the C/C++ SDK, Fourier Fast Transform, and the TinyUSB library to implement controls that requires the player to sing a certain note to do an action.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Virtual Campus - Projeto Red</title>
-      <link>/projects/virtualcampus/</link>
+      <link>//localhost:1313/projects/virtualcampus/</link>
       <pubDate>Sat, 30 Nov 2024 22:51:40 +0000</pubDate>
-      <guid>/projects/virtualcampus/</guid>
+      <guid>//localhost:1313/projects/virtualcampus/</guid>
       <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/SN_7krgupIc?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Work:&lt;/strong&gt;&#xA;During my second year at university, I was honored to be invited by the university to participate in a significant project as a programmer. It was an exceptional opportunity that allowed me to contribute my skills in various aspects.&lt;/p&gt;&#xA;&lt;p&gt;I proposed and implemented the entire frontend using React, rather than Unity itself, and also developed several Unity-side features that are part of the final product.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Connect with Me</title>
-      <link>/contact/</link>
+      <link>//localhost:1313/contact/</link>
       <pubDate>Sat, 30 Nov 2024 22:04:42 +0000</pubDate>
-      <guid>/contact/</guid>
+      <guid>//localhost:1313/contact/</guid>
       <description>&lt;p&gt;I am always excited to connect with fellow professionals and share ideas.&#xA;You can find me on the following platforms:&lt;/p&gt;&#xA;&lt;h2 id=&#34;professional-networks&#34;&gt;Professional Networks&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/tiago-moreira-548263189/&#34;&gt;Click me&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;code-repositories&#34;&gt;Code Repositories&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/betadino&#34;&gt;Click me&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;&#xA;&lt;p&gt;Feel free to reach out if you have any questions, collaborations, or just want to chat!&lt;/p&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:codecloudtm@gmail.com&#34;&gt;codecloudtm@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Resumé</title>
-      <link>/resume/</link>
+      <link>//localhost:1313/resume/</link>
       <pubDate>Sat, 30 Nov 2024 22:04:13 +0000</pubDate>
-      <guid>/resume/</guid>
+      <guid>//localhost:1313/resume/</guid>
       <description>&lt;!DOCTYPE html&gt;&#xD;&#xA;&lt;html&gt;&#xD;&#xA;  &lt;head&gt;&#xD;&#xA;    &lt;title&gt;Resumé&lt;/title&gt;&#xD;&#xA;    &lt;meta charset=&#34;UTF-8&#34; /&gt;&#xD;&#xA;  &lt;/head&gt;&#xD;&#xA;  &lt;body&gt;&#xD;&#xA;    &lt;div id=&#34;app&#34;&gt;&#xD;&#xA;      &lt;iframe&#xD;&#xA;        src=&#34;https://drive.google.com/file/d/1htjnV0RMPutB5D84dP3qYVkWGLRlM6x6/preview&#34;&#xD;&#xA;        width=&#34;100%&#34;&#xD;&#xA;        height=&#34;1000&#34;&gt;&#xD;&#xA;      &lt;/iframe&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;  &lt;/body&gt;&#xD;&#xA;&lt;/html&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Sat, 30 Nov 2024 22:03:55 +0000</pubDate>
-      <guid>/about/</guid>
+      <guid>//localhost:1313/about/</guid>
       <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello, World!&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to my Hugo-powered site! This space is dedicated to sharing insights, projects, and stories that inspire curiosity and creativity. Whether you’re a tech enthusiast, a creative soul, or just someone who loves to learn, there’s something here for you.&lt;/p&gt;&#xA;&lt;h3 id=&#34;latest-posts&#34;&gt;Latest Posts&lt;/h3&gt;&#xA;&lt;p&gt;Stay up-to-date with my latest posts and projects. Here are some of the recent topics I’ve been exploring:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Building a Personal Website with Hugo&lt;/strong&gt;: A step-by-step guide to setting up your own site.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;The Future of AI&lt;/strong&gt;: Insights into how AI is transforming industries.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Creative Coding Projects&lt;/strong&gt;: Fun and engaging coding projects for all skill levels.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About Me&lt;/h3&gt;&#xA;&lt;p&gt;I’m passionate about technology, creativity, and the magic that happens when the two come together. This site is a reflection of my journey, my learnings, and my experiments. Feel free to reach out if you’d like to collaborate or just say hello!&lt;/p&gt;</description>
     </item>
   </channel>

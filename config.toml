@@ -120,9 +120,9 @@ body = """
 
 This implementation is a cave generator that uses a cellular automaton to manipulate a cubic array of booleans as structural data.
 
-The it can use either marching cubes or marching tetrahedra  algorithms to create it’s mesh.
+It can use either marching cubes or marching tetrahedra  algorithms to create it’s mesh.
 
-It is made in Unity/C# and a scientific paper about it was made in context of the same curricular unit.
+It is made in Unity/C# and a i also did a pseudo scientific paper about in context of the same curricular unit as the focus was to study a topic and write a paper about it.
 
 
 

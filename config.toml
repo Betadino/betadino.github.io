@@ -168,7 +168,7 @@ text = "Contacts"
 special = true
 
 [[params.cta.link]]
-href = "/github.com/betadino/"
+href = "https://github.com/Betadino/"
 text = "GitHub"
 special = false
 
